@@ -1,6 +1,6 @@
 # Flask Bible API
 
-Esta é uma simples API em Flask para acessar versículos da Bíblia armazenados em um arquivo CSV
+Esta é uma simples API em Flask para acessar versículos da Vulgata Sisto-Clementina traduzidos pelo Padre Matos Soares (1956) e armazenados em um arquivo CSV
 
 ## Setup
 
